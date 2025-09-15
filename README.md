@@ -9,7 +9,7 @@ Originally from Chile, I have been living in Arizona since 2022. I love Chilean 
 I hope to use my recently acquired skills to help my future team achieve its objectives.
 
 - 📍 **Location:** Vail, Arizona. United States  
-- 📩 **Contacto directo:** femunozm@gmail.com
+- 📩 **Direct email:** femunozm@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/franmunozm](https://www.linkedin.com/in/franmunozm/)
 
 ---
@@ -48,7 +48,7 @@ I hope to use my recently acquired skills to help my future team achieve its obj
 
 ## 🌍 Languages
 
-- 🇪🇸 **Español:** Native  
-- 🇺🇸 **Inglés:** Fluent 
+- 🇪🇸 **Spanish:** Native  
+- 🇺🇸 **English:** Fluent 
 
 ---
