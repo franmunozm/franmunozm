@@ -1,4 +1,4 @@
-# 👋 ¡Hi, I'm Francisca Muñoz!
+# 👋 Hi, I'm Francisca Muñoz!
 
 ## 👨‍💻 About Me
 
