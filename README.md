@@ -32,7 +32,7 @@ I hope to use my recently acquired skills to help my future team achieve its obj
 ---
 
 ## 🚀 Personal Projects
-Visit my repository [Bootcamp_Data_Sciencie](https://github.com/franmunozm/Bootcamp_Data_Science.git), and you can find the latest projects I've been working on.
+Visit my repository [Bootcamp_Data_Science](https://github.com/franmunozm/Bootcamp_Data_Science.git), and you can find the latest projects I've been working on.
 
 ---
 
